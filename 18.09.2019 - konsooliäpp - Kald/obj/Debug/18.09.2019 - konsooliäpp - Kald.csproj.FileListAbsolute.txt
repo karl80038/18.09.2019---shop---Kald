@@ -1,0 +1,6 @@
+C:\Users\karl8\source\repos\18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald\bin\Debug\18.09.2019 - konsooliäpp - Kald.exe
+C:\Users\karl8\source\repos\18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald\bin\Debug\18.09.2019 - konsooliäpp - Kald.pdb
+C:\Users\karl8\source\repos\18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald\obj\Debug\18.09.2019 - konsooliäpp - Kald.csprojAssemblyReference.cache
+C:\Users\karl8\source\repos\18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald\obj\Debug\18.09.2019 - konsooliäpp - Kald.csproj.CoreCompileInputs.cache
+C:\Users\karl8\source\repos\18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald\obj\Debug\18.09.2019 - konsooliäpp - Kald.exe
+C:\Users\karl8\source\repos\18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald\obj\Debug\18.09.2019 - konsooliäpp - Kald.pdb
