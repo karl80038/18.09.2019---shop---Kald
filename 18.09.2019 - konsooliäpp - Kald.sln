@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.09.2019 - konsooliäpp - Kald", "18.09.2019 - konsooliäpp - Kald\18.09.2019 - konsooliäpp - Kald.csproj", "{D67A1B2E-5322-418E-A9B9-BA82642BB25C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteColor", "..\..\..\Downloads\18.09.2019---shop---Kald\FavoriteColor\FavoriteColor.csproj", "{67B9A6C9-66BF-4EE4-8442-0FAAD897D614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "..\..\..\Downloads\18.09.2019---shop---Kald\Test1\Test1.csproj", "{2B386514-E721-454B-83A2-4E8ED460B9EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D67A1B2E-5322-418E-A9B9-BA82642BB25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D67A1B2E-5322-418E-A9B9-BA82642BB25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D67A1B2E-5322-418E-A9B9-BA82642BB25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B9A6C9-66BF-4EE4-8442-0FAAD897D614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B9A6C9-66BF-4EE4-8442-0FAAD897D614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B9A6C9-66BF-4EE4-8442-0FAAD897D614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B9A6C9-66BF-4EE4-8442-0FAAD897D614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B386514-E721-454B-83A2-4E8ED460B9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B386514-E721-454B-83A2-4E8ED460B9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B386514-E721-454B-83A2-4E8ED460B9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B386514-E721-454B-83A2-4E8ED460B9EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
